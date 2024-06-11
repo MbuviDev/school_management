@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cloud: 1
+  oop: 1
+  ooad: 1
+  statistics: 1
+
+two:
+  cloud: 1
+  oop: 1
+  ooad: 1
+  statistics: 1
